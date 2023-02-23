@@ -12,3 +12,5 @@ let max x y
 let max2 (x:int) (y:int) 
     : z:int{ z = max x y }
     = if x > y then x else y
+
+(* SIGNATURE = PRE- AND POST-CONDITIONS OF A FUNCTION! *)
