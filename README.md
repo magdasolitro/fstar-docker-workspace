@@ -1,5 +1,4 @@
 # fstar-docker-workspace
-F* Docker Workspace easy install
 
 This repository contains two scripts to easily install F* without having to go through a painful native installation.
 To use the scripts, first install Docker, then run ./install.sh and then ./run.sh.
